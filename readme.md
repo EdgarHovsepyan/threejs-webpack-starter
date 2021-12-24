@@ -17,4 +17,3 @@ npm run build
 ```
 
 # pixi.js slote
-# slot
